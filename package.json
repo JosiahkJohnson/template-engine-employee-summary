@@ -1,0 +1,27 @@
+{
+  "name": "template-engine-employee-summary",
+  "version": "1.0.0",
+  "description": "Generates html pages for your team",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JosiahkJohnson/template-engine-employee-summary.git"
+  },
+  "author": "Josiah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JosiahkJohnson/template-engine-employee-summary/issues"
+  },
+  "homepage": "https://github.com/JosiahkJohnson/template-engine-employee-summary#readme",
+  "dependencies": {
+    "inquirer": "^7.0.5",
+    "jest": "^25.1.0"
+  }
+}
